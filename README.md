@@ -12,4 +12,7 @@ This is a finance repository that currently does the following:
    3.1 -> Data set extracted available (Financials.csv)
    
 4. Fundamental Screener to sort undervalued stocks(FundamentalScreener.py)
+
+   4.1 -> Sorted Data Set available(Filtered_50_percent.csv)
+   
 5. Mailer for sending the undervalued scanned stocks in csv file format(Mailer.py)
