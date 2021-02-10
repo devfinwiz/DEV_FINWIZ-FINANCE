@@ -12,7 +12,7 @@ emailfrom = '"DEV_FINWIZ"'
 emailto = "devjuneja43@gmail.com"
 fileToSend = "Filtered_50_percent.csv"
 username = "devjuneja43@gmail.com"
-password = "devjuneja#24"
+password = "-----------"
 
 msg = MIMEMultipart()
 msg["From"] = emailfrom
