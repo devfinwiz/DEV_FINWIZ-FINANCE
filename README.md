@@ -1,6 +1,6 @@
 This is a finance repository that currently does the following:
 
-1. Data fetching for Stocks listed on NSE India(CSVGenerator.py)
+1. Data fetching for Stocks listed on NSE India with automatic csv generation for individual ticker.(CSVGenerator.py)
    
    1.1 -> List of tickers available (Tickers.csv)
    
